@@ -1,0 +1,10 @@
+{
+  "overcast clouds":{"icon":"", "img":""},
+  "scattered clouds":{"icon":"", "img":"s"},
+  "few clouds":{"icon":"", "img":""},
+  "clear sky":{"icon":"", "img":""},
+  "light rain":{"icon":"", "img":""},
+  "moderate rain":{"icon":"", "img":""},
+  "snow":{"icon":"", "img":""},
+  "thunderstorm":{"icon":"", "img":""}
+}
