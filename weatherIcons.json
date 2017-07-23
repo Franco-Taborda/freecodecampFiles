@@ -1,10 +1,10 @@
 {
   "overcast clouds":{"icon":"0BzwL-EoIPw9pS1NyTlZwOVhTUkU", "img":"0BzwL-EoIPw9pUUFpSHU3MGRScGs"},
   "broken clouds":{"icon":"0BzwL-EoIPw9pS1NyTlZwOVhTUkU", "img":"0BzwL-EoIPw9pUUFpSHU3MGRScGs"},
-  "scattered clouds":{"icon":"0BzwL-EoIPw9pTlJIaWpkb09yTkU", "img":"0BzwL-EoIPw9pbE1RZHZnQ09DZXM"},
-  "few clouds":{"icon":"0BzwL-EoIPw9pbmIxVnlEQ0RzQVk", "img":"0BzwL-EoIPw9pZUxuRTM0M1plUXM"},
+  "scattered clouds":{"icon":"0BzwL-EoIPw9pTlJIaWpkb09yTkU", "img":"0BzwL-EoIPw9pRmdmNmdiVG5Ka2M"},
+  "few clouds":{"icon":"0BzwL-EoIPw9pbmIxVnlEQ0RzQVk", "img":"0BzwL-EoIPw9pbE1RZHZnQ09DZXM"},
   "clear sky":{"icon":"0BzwL-EoIPw9pek1zN05nXzRqQ2s", "img":"0BzwL-EoIPw9pNTVDQ2NBOTdwQTA"},
-  "light rain":{"icon":"0BzwL-EoIPw9pRnRNNzhfeGlkb2M", "img":"0BzwL-EoIPw9pRmdmNmdiVG5Ka2M"},
+  "light rain":{"icon":"0BzwL-EoIPw9pRnRNNzhfeGlkb2M", "img":"0BzwL-EoIPw9pZUxuRTM0M1plUXM"},
   "moderate rain":{"icon":"0BzwL-EoIPw9pYUNLZC16WG9Kb2c", "img":"0BzwL-EoIPw9pZUxuRTM0M1plUXM"},
   "snow":{"icon":"0BzwL-EoIPw9pUEZzaE12UFp1bG8", "img":"0BzwL-EoIPw9pcVdoM3ZQV0R2a0E"},
   "thunderstorm":{"icon":"0BzwL-EoIPw9pZDNFZnVWMHRYTEU", "img":"0BzwL-EoIPw9pLU5yMlNNWkk2LW8"}
